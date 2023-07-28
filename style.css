@@ -457,8 +457,9 @@ footer .imgMobile,.navMobile {
     }
     
     footer .imgMobile {
+        margin-top: 1.2rem;
         display: flex;
-        width: 50vw;
+        width: 55vw;
     }
     
     footer .navMobile {
